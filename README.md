@@ -38,7 +38,7 @@ Ce travail a été développé pour démontrer la capacité à traiter des bases
 ---
 
 ## 👤 Auteur
-**M. Cire Diallo**
+**Mariama siré Diallo**
 * 🌍 Géomaticien | Expert SIG
 * 🎓 Étudiant en Master
 * 🔗 [Mon Profil GitHub](https://github.com/mcirediallo-alt)
