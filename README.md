@@ -1,10 +1,10 @@
 # Analyse du Reboisement au Sénégal (2012 - 2023)
 
 ## Description
-Ce projet présente une carte choroplèthe illustrant les efforts de reboisement par région au Sénégal sur une période de 11 ans. La carte permet de visualiser l'intensité des activités de reforestation, mettant en évidence les régions leaders comme **Louga** et **Fatick**.
+Ce projet présente une carte choroplèthe illustrant les efforts de reboisement par région au Sénégal sur une période de 11 ans (2012-2023). La carte permet de visualiser l'intensité des activités de reforestation, mettant en évidence les régions leaders comme **Louga** et **Fatick**.
 
 ## Aperçu de la carte
-![Carte Reboisement Sénégal](./Carte%20Reboisement%20Sénégal.svg)
+![Carte Reboisement Sénégal](./carte.svg)
 
 ## Détails Techniques
 * **Outils utilisés :** QGIS / ArcGIS
